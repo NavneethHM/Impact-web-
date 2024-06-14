@@ -1,0 +1,168 @@
+/* this file css is for 
+page.jsx
+nav_all.jsx */
+
+
+.top_contact_detiels{
+    justify-content: space-between;
+    background-color: #00796b;
+    color: white;
+}
+
+.contact_detiels{
+ gap: 15px;
+ padding-left: 30px;
+ font-size: 15px;
+}
+
+.call{
+    display: flex;
+    gap: 10px;
+}
+
+.mail{
+    display: flex;
+    gap: 10px;
+}
+
+
+.condact_icons{
+    display: flex;
+ gap: 12px;
+ padding-right: 20px;
+    justify-content: space-between;
+}
+
+.navfull{
+    background-color: #008374;
+    justify-content: space-between;
+}
+
+
+.impName{
+    font-size: 40px;
+    font-weight: 700;
+    padding-left: 25px;
+    color: white;
+}
+
+
+.left_nav{
+    background-color: #008374;
+    height: 100%;
+}
+
+.left_1text{
+    font-size: 40px;
+    padding: 70px 0 50px 50px;
+    font-weight: 700;
+    color: white;
+}
+
+.left_2ndtext{
+    font-size: 20px;
+    padding: 0 0 50px 50px;
+    font-weight: 300;
+    color: white;
+    width: 480px;
+}
+
+.button_1out{
+    padding:0 0 50px 50px;
+    
+}
+
+.button_1in{
+    width: 200px;
+    height: 40px;
+    background-color: #079786;
+    color: white;
+    border:1px solid rgb(207, 242, 207);
+}
+
+.button_2out{
+    padding:0 0 200px 0;
+
+}
+
+.button_2in{
+    width: 200px;
+    height: 40px;
+    background-color: transparent;
+    border: transparent;
+    color: white;
+}
+
+
+.all_card_main_div{
+    
+   display: flex !important;
+   gap:40px;
+   text-align: center;
+   
+   
+}
+
+
+.card1{
+    margin-top: -100px;
+    border-radius: 10px;
+   flex-wrap: wrap;
+   flex: 1;
+   padding: 80px 60px 80px 60px;
+   background-color: #079786;
+}
+
+.textin_card{
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+
+.about_us_text_heading{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    
+}
+
+.about_text_sentence{
+    font-size: 18px;
+    padding:10px 0 50px 120px;
+}
+
+.leftrow_text{
+    padding: 30px 20px 20px 30px;
+}
+
+
+.left_image_about{
+    width: 100%;
+    border-radius: 50px;
+    padding: 0 30px 0 30px;
+}
+
+.leftrow_text_title{
+    font-size: 30px;
+    font-weight: 600;
+    padding: 30px;
+}
+
+
+.rightrow_text{
+    padding: 80px 20px 60px 30px;
+}
+
+
+.run_img{
+    width: 100%;
+    height: 60px;
+  
+  
+}
+
+.all_img_div{
+   padding: 50px;
+   
+}

@@ -1,0 +1,46 @@
+.first{
+    text-align: center;
+    padding: 50px;
+}
+
+.second{
+    
+    text-align: center;
+    padding: 50px;
+}
+
+.image{
+    width: 400px;
+    height:100%;
+    padding: 20px 0 0 30px;
+}
+
+.videoimg{
+    height: 900px;
+    width: 1200px;
+    padding: 50px;
+    border-radius: 80px;
+    margin-left: 40px;
+  
+}
+
+.videotext_all{
+    text-align: center;
+    margin-top: -330px;
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    padding: 50px;
+    margin-left: 15px;
+    
+}
+
+.but_act{
+    margin: 20px;
+    background-color:transparent;
+    border: 1px solid white;
+    border-radius: 20px;
+    color: white;
+    font-weight: 600;
+    padding: 10px;
+}

@@ -1,0 +1,60 @@
+.img{
+    width: 340px;
+    height: auto;
+    padding-bottom: 10px;
+}
+
+
+.img_in{
+    width: 150px;
+    height: auto;
+    margin-left: 60px;
+}
+
+
+.detiles{
+    text-align: center;
+}
+
+.icons{
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom:20px;
+}
+
+
+.bod{
+ 
+    
+}
+
+.img_out{
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+
+.price{
+padding-top: 30px;
+    align-items: center;
+
+}
+
+.ticxx{
+    text-align: left;
+    padding-left: 75px;
+}
+
+.fullprice{
+    text-align: center;
+}
+
+
+.buyButton{
+    background-color: transparent;
+    border: 1px solid greenyellow;
+    border-radius: 10px;
+    padding: 10px 30px 10px 30px;
+}
