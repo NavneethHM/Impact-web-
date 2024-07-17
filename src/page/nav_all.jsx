@@ -1,12 +1,9 @@
-import  "./page.css";
+import "./page.css";
 
 function IndexNav() {
-
-  
-    return (
-        <>
-        
-        <div>
+  return (
+    <>
+      <div>
         <div className="top_contact_detiels  d-flex p-3 ">
           <div className="contact_detiels d-flex">
             <div className="mail">
@@ -72,7 +69,13 @@ function IndexNav() {
             </div>{" "}
             {/* the left side text button end */}
             {/* the nav image starts */}
-            <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6 bg-danger">gght</div>
+            <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6 ">
+              <img
+                src="https://photutorial.com/wp-content/uploads/2023/04/Featured-image-AI-image-generators-by-Midjourney.png"
+                alt=""
+                className="img-top"
+              />
+            </div>
           </div>
         </div>
         <div>
@@ -81,37 +84,35 @@ function IndexNav() {
           <div className="all_card_main_div px-5 py-3 ">
             <div className="card1 ">
               <div>
-              <i class="fa-solid fa-tv"></i> <br />
-              <span className="textin_card"> Television</span> 
+                <i class="fa-solid fa-tv"></i> <br />
+                <span className="textin_card"> Television</span>
               </div>
             </div>
 
             <div className="card1 ">
               <div>
-              <i class="fa-solid fa-tv"></i> <br />
-              <span className="textin_card"> Diamond</span> 
+                <i class="fa-solid fa-tv"></i> <br />
+                <span className="textin_card"> Diamond</span>
               </div>
             </div>
 
             <div className="card1 ">
               <div>
-              <i class="fa-solid fa-tv"></i> <br />
-              <span className="textin_card"> Location</span> 
+                <i class="fa-solid fa-tv"></i> <br />
+                <span className="textin_card"> Location</span>
               </div>
             </div>
 
             <div className="card1 ">
-            <div>
-            <i class="fa-solid fa-tv"></i> <br />
-            <span className="textin_card"> Design</span> 
-            </div>
+              <div>
+                <i class="fa-solid fa-tv"></i> <br />
+                <span className="textin_card"> Design</span>
+              </div>
             </div>
           </div>
         </div>
-        
-        </div>
-        </>
-
-    );
+      </div>
+    </>
+  );
 }
 export default IndexNav;
